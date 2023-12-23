@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>816494282133-hds5er1mq19d1jfls89e008gg2efo41i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.816494282133-hds5er1mq19d1jfls89e008gg2efo41i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCH3c7kfddQwmLzc8YeMVwl8WkLtT25HfI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>816494282133</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hostelFinder.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>hostel-finder-171db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hostel-finder-171db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:816494282133:ios:89800505e73c341152229c</string>
+</dict>
+</plist>
